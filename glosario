@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+     <head>
+<title> GLOSARIO </title>
+     </head>
+     <body bgcolor="D5B0E7">
+		<hr>
+		<h1>Top music genres  </h1>
+			<ol>
+			<li>banda</li>
+			<li>pop</li>
+			<li>rock</li>
+			<li>Reggaeton</li>
+			<li>Corridos</li>
+			</ol>
+
+
+		<hr>
+
+		<h1> GLOSARIO </h1>
+			<dl>
+			<dt>banda</dt>
+			<dd>It is part of the wide universe that is Mexican regional music. </dd>
+			<dt>pop</dt>
+			<dd>It is a musical style derived from popular music. Its name, pop, comes from English, which is a shortening of the popular term..</dd>
+			<dt>Rock</dt>
+			<dd>Rock is a broad genre of popular music originating as rock and roll in the early 1950s in the United States.</dd>
+			<dt>Reggaeton</dt>
+			<dd>was born as an underground phenomenon from the slums of Puerto Rico and Panama. Until the real furore arose from the year 2000"</dd>
+			<dt>Corridos</dt>
+			<dd>The concept of corrido refers to a literary and musical form from Mexico that emerged at the end of the 18th century. They are sung pieces, generally accompanied by an instrument, which are characterized by narrating popular events and deeds of real or fictional heroes and leaders.</dd>
+		<hr>
+		<dt>Nancy Judith Gurrola Hernandez TDM42i</dt>
+
+
+			</dl>
+     </body>
+</html>
